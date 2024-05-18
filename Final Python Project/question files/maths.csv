@@ -1,0 +1,31 @@
+Question,Option1,Option2,Option3,Option4,CorrectOption,Explanation
+What is the value of π (pi) correct to two decimal places?,3.12,3.14,3.16,3.18,3.14,π is approximately equal to 3.14.
+Which of the following is a prime number?,27,33,29,35,29,A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.
+What is the square root of 144?,10,12,14,16,12,The square root of 144 is 12 because 12 * 12 = 144.
+"If a triangle has angles measuring 45°, 45°, and 90°, what type of triangle is it?",Equilateral,Isosceles,Scalene,Right,Right,In a right triangle. one of the angles measures 90°.
+"What is the next number in the sequence: 2, 4, 8, 16, ...?",24,32,48,64,32,Each number in the sequence is obtained by multiplying the previous number by 2.
+"If a square has a side length of 6 cm, what is its perimeter?",18 cm,24 cm,30 cm,36 cm,24 cm,The perimeter of a square is the sum of the lengths of its four sides.
+What is the value of 3! (3 factorial)?,3,6,9,12,6,Factorial of a number is the product of all positive integers less than or equal to that number.
+"If a circle has a diameter of 10 cm, what is its circumference?",20π cm,,,,20π cm,The circumference of a circle is calculated using the formula: circumference = π * diameter.
+What is the sum of the interior angles of a triangle?,90°,180°,270°,360°,180°,The sum of the interior angles of any triangle is always 180°.
+What is the value of 2^5?,24,30,32,36,32,2 raised to the power of 5 equals 32.
+What is the value of log(100)?,1,2,10,100,2,log(100) = 2 because 10 raised to the power of 2 equals 100.
+What is the perimeter of a rectangle with length 8 cm and width 5 cm?,13 cm,26 cm,40 cm,48 cm,26 cm,The perimeter of a rectangle is calculated as twice the sum of its length and width.
+What is the formula to calculate the area of a circle?,πr²,2πr,π/2r,π/r²,πr²,The area of a circle is given by the formula: πr². where 'r' is the radius of the circle.
+What is the value of 9 ÷ 0?,Undefined,0,1,9,Undefined,Division by zero is undefined in mathematics.
+What is the square root of 169?,10,12,13,15,13,The square root of 169 is 13 because 13 * 13 = 169.
+What is the next prime number after 17?,18,19,20,21,19,A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.
+What is the value of 2π radians in degrees?,90°,180°,270°,360°,360°,2π radians is equivalent to 360°.
+What is the sum of the first 10 natural numbers?,45,50,55,60,55,The sum of the first n natural numbers is given by the formula: (n * (n + 1)) / 2.
+What is the value of sin(30°)?,0,1,2-Jan,√3/2,2-Jan,sin(30°) = 1/2.
+What is the value of 2^10?,1024,2048,4096,8192,1024,2 raised to the power of 10 equals 1024.
+What is the area of a triangle with base 6 cm and height 8 cm?,24 cm²,32 cm²,36 cm²,48 cm²,24 cm²,The area of a triangle is given by the formula: (base * height) / 2.
+What is the value of cos(45°)?,0,1,2-Jan,√2/2,√2/2,cos(45°) = √2/2.
+What is the value of 5! (5 factorial)?,120,240,360,480,120,Factorial of a number is the product of all positive integers less than or equal to that number.
+"What is the next number in the sequence: 3, 6, 12, 24, ...?",36,48,60,72,48,Each number in the sequence is obtained by doubling the previous number.
+"What is the perimeter of a triangle with sides measuring 5 cm, 7 cm, and 9 cm?",21 cm,24 cm,25 cm,26 cm,21 cm,The perimeter of a triangle is the sum of the lengths of its three sides.
+What is the value of log(1)?,0,1,10,100,0,log(1) = 0 because any number raised to the power of 0 equals 1.
+What is the value of tan(45°)?,0,1,2-Jan,√3/2,1,tan(45°) = 1.
+What is the area of a rectangle with length 10 cm and width 4 cm?,20 cm²,30 cm²,40 cm²,50 cm²,40 cm²,The area of a rectangle is calculated as the product of its length and width.
+What is the value of 4^3?,64,128,256,512,64,4 raised to the power of 3 equals 64.
+What is the circumference of a circle with radius 5 cm?,10π cm,,,,10π cm,The circumference of a circle is calculated using the formula: circumference = 2π * radius.
